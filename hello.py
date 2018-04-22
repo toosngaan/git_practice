@@ -5,7 +5,7 @@ print('my name is Computer :) ')
 location = input('So, where are you from?')
 print(f'Oh I have never been to {location} before!')
 
-print("Hi Lesia, this is your clone!")
+print("Hi Lesia, this is your klone!")
 
-print("More clones are comming!!!")
+print("More klones are comming!!!")
 
