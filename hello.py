@@ -6,3 +6,6 @@ location = input('So, where are you from?')
 print(f'Oh I have never been to {location} before!')
 
 print("Hi Lesia, this is your clone!")
+
+print("More clones are comming!!!")
+
